@@ -21,3 +21,5 @@ button.clicked.connect(on_button_clicked)
 button.show()
 app.exec_();
 ```
+![image](https://user-images.githubusercontent.com/34876769/120766150-238fb280-c544-11eb-9805-a0ab78745b1f.png)
+
